@@ -1,4 +1,4 @@
-package edu.neu.cs4500.controllers.hello;
+package cs4500.sp19.s2.controllers.hello;
 
 public class HelloObject {
 	private String message;

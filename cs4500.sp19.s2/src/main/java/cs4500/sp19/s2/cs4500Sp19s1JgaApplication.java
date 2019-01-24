@@ -1,4 +1,4 @@
-package edu.neu.cs4500;
+package cs4500.sp19.s2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
